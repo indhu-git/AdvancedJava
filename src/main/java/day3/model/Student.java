@@ -9,6 +9,10 @@ public class Student {
         this.mark = mark;
     }
 
+    public Student(){
+
+    }
+
     public String getStudentName() {
         return studentName;
     }
